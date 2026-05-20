@@ -178,7 +178,7 @@ The dataset was cleaned and transformed before visualization:
 
 # 📷 Dashboard Preview / Screenshoot
 
-![Dashboard Preview]:
+![Dashboard Preview]:https://github.com/Antid0te99/Library-Management-System-Dashboard/blob/main/library%20dashboard.png
 
 
 ---
